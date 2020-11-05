@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS Soal 2</string>
+    <string name="profil_fakultas_upn">PROFIL FAKULTAS UPN</string>
+    <string name="ffffff">FFFFFF</string>
+    <string name="upn">upn</string>
+    <string name="desc">desc</string>
+    <string name="web">web</string>
+    <string name="email">email</string>
+</resources>
